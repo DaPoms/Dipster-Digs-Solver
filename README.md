@@ -1,3 +1,3 @@
 # Dipster-Digs-Solver
 An assistant to solving the Dipster Digs minigame in My Singing Monsters
-Currently a WIP
+Currently functional but needs to be cleaned up
