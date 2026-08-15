@@ -7,8 +7,8 @@
 
 
 # Controls:
-  1. Enter the row, column, and dipster count of your dipster digs level into their dedicated squares on the excel sheet
-  2. Click the icons for each dipster and numbered block and place them by clicking on the square you want to place on till you replicate your layout in game  \
+  1. Enter the row, column, and Dipster count of your Dipster digs level into their dedicated squares on the excel sheet
+  2. Click the icons for each Dipster and numbered block and place them by clicking on the square you want to place on till you replicate your layout in game  \
       2a.   Note that the King Do and Superno-Fa will be placed with where you click as the upper left of them
   3. Lastly, click calculate to get results \
       3a. Red squares mean that the currently unused Dipsters cannot be placed there \
