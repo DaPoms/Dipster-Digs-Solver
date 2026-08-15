@@ -18,4 +18,9 @@
 # Notes: 
 - Currently functional but needs to be cleaned up.  
 - This does Require Excel to function (as Visual Basic runs on Excel), but there might be some free alternatives online
+- Since this is done with Visual Basic, you will have to enable macros for this file as OS' often block external .xlsm files. This is done by doing as follows (windows instructions):
+  1. Go to file explorer
+  2. Right click my project's file (My Singing Monsters Dipsters Minseweeper Minigame Solver.xlsm)
+  3. Select properties
+  4. On the general tab, select "unblock" near the bottom
 
