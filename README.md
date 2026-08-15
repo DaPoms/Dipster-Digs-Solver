@@ -1,5 +1,11 @@
-## Dipster-Digs-Solver
-An assistant to solving the Dipster Digs minigame in My Singing Monsters.  
+<h1 align = "center"> Dipster-Digs-Solver <h2>
+<p align = "center">
+<img width="738" height="359" alt="image" src="https://github.com/user-attachments/assets/2ce20460-5ea3-446b-a3cc-5d81eec3d7a3" />
+  <br>An assistant to solving the Dipster Digs minigame in My Singing Monsters.  
+</p>
+
+
+
 # Controls:
   1. Enter the row, column, and dipster count of your dipster digs level into their dedicated squares on the excel sheet
   2. Click the icons for each dipster and numbered block and place them by clicking on the square you want to place on till you replicate your layout in game  \
