@@ -23,4 +23,6 @@
   2. Right click my project's file (My Singing Monsters Dipsters Minseweeper Minigame Solver.xlsm)
   3. Select properties
   4. On the general tab, select "unblock" near the bottom
+# Updates: 
+  - Added LibreOffice port of the project (named aptly as LibreOffice version). This is intended for users who do not own excel (which can be quite costly)
 
