@@ -24,5 +24,12 @@
   3. Select properties
   4. On the general tab, select "unblock" near the bottom
 # Updates: 
-  - Added LibreOffice port of the project (named aptly as LibreOffice version). This is intended for users who do not own excel (which can be quite costly)
+  - Added LibreOffice port of the project (named aptly as LibreOffice version). This is intended for users who do not own excel (which can be quite costly). Note just like excel, you must enable macro permissions in order to run this program. This is done as follows:
+    1. Select the tools tab at the top
+    2. Select options in the tools tab
+    3. Expand the "LibreOffice" tab in the settings and select Security
+    4. Click on Macro Security
+    5. Choose Medium to allow the application to be run with manually permissions \
+    Note: If you want to stay with a higher level of security, then you can select "Trusted sources" in the same marco security UI and put this project in the trusted folder you set instead.
+  
 
