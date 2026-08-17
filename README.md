@@ -7,7 +7,7 @@
 
 
 # Controls:
-  1. Enter the row, column, and Dipster count of your Dipster digs level into their dedicated squares on the excel sheet
+  1. Enter the row, column, and Dipster count of your Dipster digs level into their dedicated squares on the excel sheet, then click "reset map" to apply
   2. Click the icons for each Dipster and numbered block and place them by clicking on the square you want to place on till you replicate your layout in game  \
       2a.   Note that the King Do and Superno-Fa will be placed with where you click as the upper left of them
   3. Lastly, click calculate to get results \
