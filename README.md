@@ -1,6 +1,6 @@
 <h1 align = "center"> Dipster-Digs-Solver <h2>
 <p align = "center">
-<img width="738" height="359" alt="image" src="https://github.com/user-attachments/assets/2ce20460-5ea3-446b-a3cc-5d81eec3d7a3" />
+<img width="1396" height="718" alt="image" src="https://github.com/user-attachments/assets/eb66fe49-508a-4bf4-b725-6ed2a207d75e" />
   <br>An assistant to solving the Dipster Digs minigame in My Singing Monsters.  
 </p>
 
